@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="action_settings">Settings</string>
+    <string name="ambigTitle"><![CDATA[(e.g. {}[]()/&apos;\"`~.;:.<>)]]></string>
+    <string name="clip_description">My Generated Password</string>
+    <string-array name="prevention">
+        <item>Do not use the same password for multiple accounts</item>
+        <item>Use a password that has at least 16 characters, use at least one number, one uppercase letter, one lowercase letter and one special symbol</item>
+        <item>Do not use the names of your families, friends, pet in your passwords</item>
+        <item>Do not use postcodes, house numbers, phone numbers,birthdates, ID card numbers, social security numbers, and so on in your passwords</item>
+        <item>Do not use any dictionary words in your passwords</item>
+    </string-array>
+
+</resources>
